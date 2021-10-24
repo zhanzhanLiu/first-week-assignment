@@ -21,8 +21,8 @@ https://github.com/zhanzhanLiu/first-week-assignment
 * Add comments on CSS and html to make it clear to read
 
 ## Screenshots after editing 
-./assets/images/screenshot-1.png
-./assets/images/screenshot-2.png
+![After modifications of the starter code, the website looks the same.](./assets/images/screenshot-1.png)
+![](./assets/images/screenshot-2.png)
 
 
 
